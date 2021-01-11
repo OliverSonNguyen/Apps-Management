@@ -1,4 +1,5 @@
-
+<html>
+	<body>
 		<strong>Privacy Policy</strong>
 		<p>
                   Son Nguyen built the Apps Management app as
@@ -182,6 +183,8 @@
                   Privacy Policy, do not hesitate to contact me at <a href = "mailto:tslabdeveloper@gmail.com?subject = Feedback for Apps Management">tslabdeveloper@gmail.com
 			</a>
                 </p>
+	</body>
+	</html>
 		
 	
 
