@@ -180,7 +180,8 @@
 		</p>
 		<p>
                   If you have any questions or suggestions about my
-                  Privacy Policy, do not hesitate to contact me at tsdeveloper@gmail.com.
+                  Privacy Policy, do not hesitate to contact me at <a href = "mailto:tslabdeveloper@gmail.com?subject = Feedback for Apps Management">tslabdeveloper@gmail.com
+			</a>
                 </p>
 		
 	</body>
