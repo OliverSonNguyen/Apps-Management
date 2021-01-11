@@ -174,7 +174,7 @@
                   notify you of any changes by posting the new Privacy Policy on
                   this page.
                 </p>
-		<p>This policy is effective as of 2021-01-11</p>
+		<p>This policy is effective as of 2021-01-01</p>
 		<p>
 			<strong>Contact Us</strong>
 		</p>
