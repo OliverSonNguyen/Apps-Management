@@ -1,5 +1,4 @@
-<html>
-	<body>
+
 		<strong>Privacy Policy</strong>
 		<p>
                   Son Nguyen built the Apps Management app as
@@ -185,4 +184,4 @@
                 </p>
 		
 	
-</html>
+
